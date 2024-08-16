@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Hdfc Bank Releases Nexus Repository</name>
-	      <url>http://13.233.207.72:8081/repository/hdfcbank-release/</url>
+	      <name>Pipelinerepo Releases Nexus Repository</name>
+	      <url>http://13.233.207.72:8081/repository/pipelinerepo-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Hdfc Bank Snapshot Nexus Repository </name>
-	      <url>http://13.233.207.72:8081/repository/hdfcbank-snapshot/</url>
+	      <name>Pipelinerepo Snapshot Nexus Repository </name>
+	      <url>http://13.233.207.72:8081/repository/pipelinerepo-snapshot//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
