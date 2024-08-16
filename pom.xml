@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://35.154.49.82:9000/</sonar.host.url>
+		<sonar.host.url>http://3.110.131.125:9000/</sonar.host.url>
 		<sonar.login>squ_3e71b003e3ef56f12f3b7b251d39fd50a5a75236</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Axix Bank Releases Nexus Repository</name>
-	      <url>http://13.126.218.11:8081/repository/Axixbank-release/</url>
+	      <name>Hdfc Bank Releases Nexus Repository</name>
+	      <url>http://13.233.207.72:8081/repository/hdfcbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Axix Bank Snapshot Nexus Repository </name>
-	      <url>http://13.126.218.11:8081/repository/Axixbank-snapshot/</url>
+	      <name>Hdfc Bank Snapshot Nexus Repository </name>
+	      <url>http://13.233.207.72:8081/repository/hdfcbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
