@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Pipelinerepo Releases Nexus Repository</name>
-	      <url>http://13.233.207.72:8081/repository/pipelinerepo-release/</url>
+	      <name>Delcarative Pipeline Releases Nexus Repository</name>
+	      <url>http://15.206.92.168:8081/repository/Declarative-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Pipelinerepo Snapshot Nexus Repository </name>
-	      <url>http://13.233.207.72:8081/repository/pipelinerepo-snapshot//</url>
+	      <name>Declarative pipeline Snapshot Nexus Repository </name>
+	      <url>http://15.206.92.168:8081/repository/Declarative-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
