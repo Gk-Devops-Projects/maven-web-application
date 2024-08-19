@@ -115,7 +115,7 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.1.0/version>
+				<version>2.2:war/version>
 				<configuration>
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
